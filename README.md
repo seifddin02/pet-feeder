@@ -1,4 +1,4 @@
-# Pet Feeder
+# IoT Smart Pet Feeder
 
 Pet Feeder is a simple smart pet feeding system built on the ESP8266 platform. It allows pet owners to schedule and automate feeding times for their pets, ensuring they are fed even when the owner is away.
 
@@ -13,11 +13,11 @@ Pet Feeder is a simple smart pet feeding system built on the ESP8266 platform. I
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
-  <img src="screenshots/1.jpg" alt="Screenshot 1" width="300" />
-  <img src="screenshots/2.jpg" alt="Screenshot 2" width="300" />
-  <img src="screenshots/3.jpg" alt="Screenshot 3" width="300" />
-  <img src="screenshots/4.jpg" alt="Screenshot 4" width="300" />
-  <img src="screenshots/5.jpg" alt="Screenshot 5" width="300" />
+  <img src="screenshots/1.jpeg" alt="Screenshot 1" width="300" />
+  <img src="screenshots/2.jpeg" alt="Screenshot 2" width="300" />
+  <img src="screenshots/3.jpeg" alt="Screenshot 3" width="300" />
+  <img src="screenshots/4.jpeg" alt="Screenshot 4" width="300" />
+  <img src="screenshots/5.jpeg" alt="Screenshot 5" width="300" />
 
 </div>
 
